@@ -1,0 +1,104 @@
+@media (min-width:1755px) and (max-width:1920px) {
+
+}
+@media (min-width:1500px) and (max-width:1920px) {
+
+}
+@media (min-width: 993px) and (max-width: 1024px){
+
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+    .respnpcontact{
+        margin-bottom: 20px;
+    }
+    .respnpcontact i{
+        margin-bottom: 8px;
+    }
+    .desktoppdf{
+        display: none;
+    }
+    .mobilepdf{
+        display: block;
+    }
+}
+@media (min-width: 768px) and (max-width: 915px) {
+    .font-div{
+        height: 145px;
+    }
+    .profile{
+        height: 445px;
+    }
+}
+@media (min-width:320px) and (max-width: 767px){
+    .respnpcontact{
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    .respnpcontact i{
+        margin-bottom: 8px;
+    }
+    .stick_address {
+        margin-top: unset !important;
+    }
+    .social-media-icon{
+        bottom: 8px !important;
+    }
+    .desktoppdf{
+        display: none;
+    }
+    .mobilepdf{
+        display: block;
+    }
+    .opentowork{
+        display: block;
+    }
+
+}
+@media (min-width:320px) and (max-width: 425px){
+    .profile{
+        height: 395px;
+    }
+    .respn_name{
+        font-size: 34px;
+    }
+    .font-div{
+        height: 101px;
+    }
+    .respnhidetext{
+        display: block;
+    }
+    .respntext{
+        display: none;
+    }
+    .respnpadding{
+        padding: 2rem !important;
+    }
+    h2{
+        font-size: 22px;
+    }
+    h3{
+        font-size: 20px;
+    }
+    h4{
+        font-size: 18px;
+    }
+    .hero__example-link__title{
+        font-size: 10px;
+    }
+    .hero-grid__item{
+        width: 31%;
+    }
+    .respnpcontact{
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    .respnpcontact i{
+        margin-bottom: 8px;
+    }
+    .text-area{
+        padding-right: 0px !important;
+    }
+
+    
+}
